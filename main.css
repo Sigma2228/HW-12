@@ -8,16 +8,18 @@
     text-align: center;
     
 }
-.title {
-    color: white;
-    font-weight: 900;
-    background-color: black;
-    padding: 100px;
-    text-align: center;
-    vertical-align: auto;
-    margin-bottom: 94px;
-}
+.section-button {
+        color: white;
+        font-weight: 900;
+        background-color: black;
+        padding: 100px;
+        text-align: center;
+        vertical-align: auto;
+        margin-bottom: 94px;
+    }
 .header-link {
+    padding: 100px;
+    text-decoration: none;
     font-size: 14px;
     font-weight: 500;
     margin-bottom: 25px;
